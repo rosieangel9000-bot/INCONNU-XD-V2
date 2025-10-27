@@ -11,14 +11,14 @@
   "stack":"heroku-24",
   "env":{
       "SESSION_ID": {
-      "description": "Paste here session id that you have scanned",
+      "description": "INCONNU~XD~X4pHhbIY#OT9uU70Ucit4GOmojLDv8wjq98smPRqP0GPovSZ8R8M",
       "required": true,
       "value": ""
     },
     "MODE": {
       "description": "Enter public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "AUTO_STATUS_SEEN": {
       "description": "Enter true for autoview status. Or leave blank",
